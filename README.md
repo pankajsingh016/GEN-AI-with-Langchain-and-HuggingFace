@@ -105,4 +105,4 @@
 |:-------|:------:|:--------:|:--------:|:------:|
 | Hello World| 1 | Hello World Graph | 1. Understand and define the Agent Structure.<br> 2.Create simple node functions to process and Update data.<br>3.Set up a basic Langgraph structure.<br>4. Compile and Invoke a Langgraph graph.<br>5.Understand how data flows through a single-node in Langgraph.|<img src="./assets/agents/Agent_1.png">| 
 | Multiple Input Graph | 2 | Multiple Input Graph | 1.Define a more complex Agent State<br> 2. Create a processing node that performs operations on list data.<br> 3.Set up a Langgraph that process and outputs computed results.<br> 4. Invoke the Graph with structured inputs and retrive outputs.<br> **Main Goal**: Learn how to handle multiple inputs| <img src="">|
-| 
+| Sequential Graph | 3 | Sequential Graph | 1. Create multiple Nodes that sequentially process and update different part of the state<br> 2. Connect Nodes together in a graph.<br> Invoke the Graph and see how the state is transformed step by step <br> **Main Goal**: Create and handle Multiple Nodes | <img src=""> | 
